@@ -1,0 +1,2 @@
+soaintperu.soaintperu.App=org.springframework.stereotype.Component
+soaintperu.soaintperu.GreetingController=org.springframework.stereotype.Component
